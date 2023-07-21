@@ -1,16 +1,15 @@
-### Hi there 👋
+<!---
+i am the key to everything
+--->
 
-<!--
-**raptus-lord/raptus-lord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, it's me.
+- 👀 I’m interested in ... <b>helping you</b> 
+- 💞️ I’m looking to collaborate on ... this hunt we're stuck doing 
+- 📫 How to add me ... <b>you don't.</b>
 
-Here are some ideas to get you started:
+<!--- to avoid confusion, im straight up just going to tell you that 
+this entire readme is relevant for only this question, but what you read
+here may be needed later --->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- use it then -->
+- I like watering the "garden of answers??"
